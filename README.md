@@ -3,7 +3,7 @@
 
 以下按照时间倒序排序
 
-[中级前端面试指南）](https://ssh-blog.vercel.app/646656891/)
+[中级前端面试指南](https://ssh-blog.vercel.app/646656891/)
 
 [一年半前端跳槽面试经验（头条、微信、shopee）](https://juejin.im/post/6844904095564709896)
 
